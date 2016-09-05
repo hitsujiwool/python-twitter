@@ -371,6 +371,7 @@ class Status(TwitterModel):
             'coordinates': None,
             'created_at': None,
             'current_user_retweet': None,
+            'entities': None,
             'favorite_count': None,
             'favorited': None,
             'geo': None,
